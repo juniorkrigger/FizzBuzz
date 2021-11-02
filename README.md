@@ -3,9 +3,8 @@ Teste FizzBuzz, verifica se o número é divisível por 3 e 5.<br>
     // Divisível por 3 => Fizz <br>
     // Divisível por 5 => Buzz <br>
     // Divisível por 3 e 5 => FizzBuzz <br>
-    // Não divisível por 3 ou 5 => entrada <br>
-    // Não é um número => 'Não é um número'
-    // Caso não for nenhum caso acima, retorna o valor de entrada.
+    // Não divisível por 3 ou 5 => valor de entrada <br>
+    // Não é um número => 'Não é um número' 
 
 Exercício simples em javaScript.<br>
 Segue exemplo:
